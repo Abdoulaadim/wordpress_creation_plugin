@@ -5,7 +5,11 @@
 
 
 1/apparaitre sur le menu de l'administrateur.
+
 2/rendre facile la configuration des champs à laisser et des champs à effacer du formulaire.
+
 3/sauvegarder les données à la base de données.
+
 4/Permettez les utilisateurs à intégrer le shortcode dans les pages.
+
 
